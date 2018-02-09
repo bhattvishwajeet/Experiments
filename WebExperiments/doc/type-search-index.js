@@ -1,0 +1,1 @@
+typeSearchIndex = [{"p":"com.vbsoft.item1","l":"Coordinates"},{"p":"com.vbsoft.issues","l":"Issue"},{"p":"com.vbsoft.item2","l":"NutritionFacts"},{"p":"com.vbsoft.item2","l":"NutritionFacts.Builder"},{"p":"com.vbsoft.item1","l":"TestCoordinates"}]

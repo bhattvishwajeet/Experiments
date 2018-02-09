@@ -1,0 +1,1 @@
+packageSearchIndex = [{"l":"com.vbsoft.issues"},{"l":"com.vbsoft.item1"},{"l":"com.vbsoft.item2"}]
