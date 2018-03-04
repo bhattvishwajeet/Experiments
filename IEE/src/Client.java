@@ -5,8 +5,7 @@ import com.vbsoft.issues.DesignIssue;
 import com.vbsoft.issues.IssueFactory;
 
 public class Client {
-
-	//This is the first commit from the branch: MyBranch
+	
 	public static void main(String args[]) throws Exception{
 		System.out.println("I want to create issues !");
 		DesignIssue di = IssueFactory.createExpertCertificationIssue("Vishwajeet","Bhatt");
